@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-umardev&label=Profile%20views&color=0e75b6&style=flat" alt="mr-umardev" /> </p>
 
-- 🔭 I’m currently working on an **Application named GameGlobe - Where Every Game Awaits You**
+- 🔭 I’m currently working on an **TrimItAI: ✂️ Your AI-Powered Text Summarizer**
 
 - 🌱 I’m currently learning **ReactNative , Python , Flutter**
 
