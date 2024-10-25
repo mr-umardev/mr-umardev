@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on an **Smart Health Monitoring System**
 
-- 🌱 I’m currently learning **ReactNative , Python , Flutter**
+- 🌱 I’m currently learning **ReactNative , Python , Nodejs**
 
 - 💬 Ask me about **C++, Reactjs, TailWindCSS**
 
