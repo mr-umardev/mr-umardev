@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-umardev&theme=matrix" alt="mr-umardev" /></a> </p>
 
-- 🔭 I’m currently working on **Aspiring Software Programmer & Development Engineer from India**
+- 🔭 I’m currently working on **Traffic Management & Accident Prediction System**
 - 🌱 I’m currently learning **Data Structures and machine learning algorithms**
 - 💬 Ask me about **React, Data Structures and machine learning algorithms.**
 - 📫 How to reach me **umarmd2k22@gmail.com**
