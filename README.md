@@ -10,7 +10,6 @@
 - 💬 Ask me about **React, Data Structures and machine learning algorithms.**
 - 📫 How to reach me **umarmd2k22@gmail.com**
 - 👨‍💻 All of my projects are available at **https://mr-umardev.github.io/Mohammed-R-Umar-Farooq/**
-- 📄 Know about my experiences **https://github.com/mr-umardev/Mohammed-R-Umar-Farooq/blob/main/resume/Portfolio.pdf**
 - ⚡ Fun fact **I get jobs done.**
 
 <div> <a href="https://www.linkedin.com/in/mohammed-r-umar-farooq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
