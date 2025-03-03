@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="" alt="Snake animation" />
+<img src="github-user-contribution.svg" alt="Snake animation" />
 
 
 ###
