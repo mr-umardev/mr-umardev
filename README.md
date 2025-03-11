@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mohammed R Umar Farooq<br>An Aspiring Software Developer from Bengaluru.<br>🔭 I’m currently working on Traffic Analysis and Manangement System<br>🌱 I’m currently learning Data Structures and Machine Learning Algorithms<br>💬 Ask me about Data Structures and Machine Learning Algorithms<br>📫 How to reach me umarmd2k22@gmail.com<br>⚡ Fun fact Life gives one chance, so don't waste it
+Hi 👋, I'm Mohammed R Umar Farooq<br>An Aspiring Software Developer from Bengaluru.<br>🔭 I’m currently working on Traffic Analysis and Manangement System<br>🌱 I’m currently learning Data Structures and Machine Learning Algorithms<br>💬 Ask me about Data Structures and Machine Learning Algorithms<br>📫 How to reach me umarmd2k22@gmail.com<br>⚡ Fun fact: Life gives one chance, so don't waste it
 
 
 ## 🌐 Socials:
