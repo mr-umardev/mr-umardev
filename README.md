@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed R Umar Farooq</h1>
 <h3 align="center">Software Developer@ BCE Global Tech | Bengaluru, India 🇮🇳</h3>
-<h3 align="center">I am an **Software Developer** passionate about building impactful applications and continuously improving my problem-solving and engineering skills.</h3>
+<h3 align="center">I am an <h2>Software Developer</h2> passionate about building impactful applications and continuously improving my problem-solving and engineering skills.</h3>
 
 <p align="center">
   <img src="output/hustle.svg" width="900"/>
