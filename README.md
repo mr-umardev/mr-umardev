@@ -4,7 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed R Umar Farooq</h1>
 <h3 align="center">Software Developer@ BCE Global Tech | Bengaluru, India 🇮🇳</h3>
-<h4 align="left">I am an Software Developer passionate about building impactful applications and continuously improving my problem-solving and engineering skills.</h4>
+
+<p align="left" style="font-size:14px;">
+I am a Software Developer passionate about building impactful applications and continuously improving my problem-solving and engineering skills.
+</p>
 
 ## ✍️ Random Dev Quote
 
