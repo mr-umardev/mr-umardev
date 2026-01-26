@@ -1,0 +1,77 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- NEON GLOW -->
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- SHIMMER -->
+    <linearGradient id="shine" x1="-100%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="50%" stop-color="white" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+      <animate attributeName="x1" from="-100%" to="100%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="0%" to="200%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <mask id="mask">
+      <rect width="1200" height="300" fill="url(#shine)"/>
+    </mask>
+  </defs>
+
+  <!-- GROUP FOR MOTION -->
+  <g transform-origin="600px 150px">
+
+    <!-- SOFT PULSE -->
+    <animateTransform attributeName="transform"
+      type="scale"
+      values="1;1.06;1"
+      dur="2.2s"
+      repeatCount="indefinite"/>
+
+    <!-- MAIN NEON TEXT -->
+    <text x="50%" y="60%" text-anchor="middle"
+          font-size="160"
+          font-weight="900"
+          font-family="Poppins, Montserrat, Arial Black, sans-serif"
+          filter="url(#neonGlow)">
+
+      HUSTLE
+
+      <!-- COLOR SHIFT -->
+      <animate attributeName="fill"
+               dur="6s"
+               repeatCount="indefinite"
+               values="
+               #00ff7f;
+               #ff8c00;
+               #00bfff;
+               #ff1744;
+               #00ff7f"/>
+
+      <!-- BLINK -->
+      <animate attributeName="opacity"
+               values="0.85;1;0.85"
+               dur="2.2s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <!-- SHIMMER OVERLAY -->
+    <text x="50%" y="60%" text-anchor="middle"
+          font-size="160"
+          font-weight="900"
+          font-family="Poppins, Montserrat, Arial Black, sans-serif"
+          fill="white"
+          mask="url(#mask)"
+          opacity="0.7">
+
+      HUSTLE
+    </text>
+
+  </g>
+</svg>
