@@ -2,6 +2,11 @@
 Hi 👋, I'm Mohammed R Umar Farooq<br>An Aspiring Software Developer from Bengaluru.<br>🔭 I’m currently working on Traffic Analysis and Manangement System<br>🌱 I’m currently learning Data Structures and Machine Learning Algorithms<br>💬 Ask me about Data Structures and Machine Learning Algorithms<br>📫 How to reach me umarmd2k22@gmail.com<br>⚡ Fun fact: Life gives one chance, so don't waste it
 
 
+<p align="center">
+  <img src="output/hustle.svg" width="900"/>
+</p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-r-umar-farooq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umarmd2k22@gmail.com) 
 
