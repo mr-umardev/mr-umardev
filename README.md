@@ -9,7 +9,7 @@
 I am a Software Developer passionate about building impactful applications and continuously improving my problem-solving and engineering skills.
 </p>
 
-## ✍️ Random Dev Quote
+## ✍️ Code Philosophy
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
