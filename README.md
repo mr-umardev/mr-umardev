@@ -47,11 +47,6 @@ I am a Software Developer passionate about building impactful applications and c
 
 ---
 
-<p align="center">
-  <img src="output/hustle-neon.svg" width="900"/>
-</p>
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -63,6 +58,10 @@ I am a Software Developer passionate about building impactful applications and c
 </p>
 
 ---
+
+<p align="center">
+  <img src="output/hustle-neon.svg" width="900"/>
+</p>
 
 ## 🏆 Trophy Cabinet
 
