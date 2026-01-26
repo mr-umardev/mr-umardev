@@ -117,5 +117,3 @@ I am an aspiring **Software Developer** passionate about building impactful appl
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mr-umardev&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
