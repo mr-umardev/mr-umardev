@@ -21,11 +21,11 @@ Hi 👋, I'm Mohammed R Umar Farooq<br>An Aspiring Software Developer from Benga
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mr-umardev&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=mr-umardev&icon=8&color=0)](https://visitcount.itsvg.in)
+
 <img src="https://raw.githubusercontent.com/mr-umardev/mr-umardev/output/snake.svg" alt="Snake animation" />
 
 ###
-
----
-[![](https://visitcount.itsvg.in/api?id=mr-umardev&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
