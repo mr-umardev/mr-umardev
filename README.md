@@ -47,18 +47,6 @@ I am a Software Developer passionate about building impactful applications and c
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-umardev&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" width="32%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mr-umardev&theme=cobalt&hide_border=false" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-umardev&theme=cobalt&hide_border=false&layout=compact" width="32%" />
-</p>
-
----
-
 <p align="center">
   <img src="output/hustle-neon.svg" width="900"/>
 </p>
